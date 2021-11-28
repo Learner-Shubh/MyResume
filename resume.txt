@@ -1,0 +1,200 @@
+<html><head>
+	<meta charset="UTF-8">
+	<title>Resume Design</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    </head>
+    <body>
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="C:\Users\HP\OneDrive\Desktop\New folder\New folder\myimages.png" alt="profile_pic">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">Shubham Deshmukh</p>
+           <p class="regular">STUDENT</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+           Pawar Nagar   <br> NAGPUR
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+               7447666133
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+               shubhamdeshmukh8948@gmail.com
+             </div>
+           </li>
+       
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">skills</p>
+         </div>
+         <ul>
+           <li>
+             <div class="skill_name">
+               HTML
+             </div>
+             <div class="skill_progress">
+               <span style="width: 80%;"></span>
+             </div>
+             <div class="skill_per">80%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               CSS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 70%;"></span>
+             </div>
+             <div class="skill_per">70%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               Python
+             </div>
+             <div class="skill_progress">
+               <span style="width: 50%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               JS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 40%;"></span>
+             </div>
+             <div class="skill_per">40%</div>
+           </li>
+          
+         </ul>
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Social</p>
+         </div>
+         <ul>
+          
+        
+           <li>
+             <div class="icon">
+               <i class="fab fa-linkedin"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Linkedin</p>
+               <p>shubhamdeshmukh@linkedin</p>
+             </div>
+           </li>
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <p class="bold">OBJECTIVE</p>
+         </div>
+        <p>To work with a leading company and to use my analytical thinking, knowledge, skills and
+experience to the best of my ability combined with perseverance, so as to contribute to organization's
+growth and goal.</p>
+    </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">INTERPERSONAL SKILL</p>
+         </div>
+
+
+Problem Solving<br><br>
+Team Leader<br><br>
+Co-operative and keen observer<br><br>
+Honest and Trustworthy<br><br>
+Punctual and Team Work<br><br>
+Intellectual Curiosity to Find Answers<br><br>
+To Indentify a Strategic Solution<br><br><p></p>
+
+
+ <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">SOFTWARE PROFICIENCY</p>
+Microsoft Office Power Point
+
+Operating system: XP, Windows10.
+<br><br>
+C<br><br>
+C++<br><br>
+HTML<br><br>
+CSS<br><br>
+PYTHON<br><br>
+JAVASCRIPT<br><br>
+         </div><p></p>
+
+
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">LANGUAGE</p>
+         </div>
+ENGLISH <br><br>
+HINDI<br><br>
+MARATHI<br><br><p></p>
+
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">FIELD OF INTREST</p>
+         </div>
+
+ 
+IT<br><br>
+AI<br><br>
+WEB DEVELOPMENT<br><br>
+
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">PERSONAL DETAILS</p>
+         </div>
+
+Father's Name: Namdeo Nemaji Deshmukh<br><br>
+Mother's Name: Asha Namdeo Deshmukh<br><br>
+Date of Birth: 23 March 2001<br><br>
+Language Known: Marathi, Hindi, English.<br><br>
+Hobbies and Interest: Coding, Reading Books, Singing and Travelling<br><br>
+Nationality: Indian<br><br>
+Marital status: Single<br><br>
+Address : Plot no. 37, Pawar Nagar, Hudkeshwar Road, Nagpur-440034 <br><br><p></p>
+
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">DECLARATION</p>
+         </div>
+I do hereby declare that the above information is true to the best of my knowledge.
+<br>Shubham N. Deshmukh
+<br>Place: Nagpur 
+<br>Date: 27/11/2021
+                                        </div>
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+</body></html>
